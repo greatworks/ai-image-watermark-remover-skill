@@ -1,6 +1,8 @@
 # AI 生图自动去水印
 
 > 装一次，之后每个会话都默认生效。AI 出图完自动裁掉右下角水印，不用再跟模型说「把水印去掉」。
+<img width="1200" height="630" alt="cover-1200x630" src="https://github.com/user-attachments/assets/64854884-e41a-4878-ba9d-1d4cce8e27ae" />
+
 
 ## 它解决什么
 
